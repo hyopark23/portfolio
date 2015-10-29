@@ -1,0 +1,73 @@
+a {
+  text-decoration: none;
+}
+
+body {
+  font-family: arial;
+  color:cornflowerblue;
+  background-color: azure;
+}
+
+h2 {
+  color: black;
+}
+
+header {
+  text-decoration: underline;
+}
+
+#top {
+  border: 2px solid black;
+  background-color: darkgray;
+  text-align: center;
+  text-decoration: none;
+}
+
+h1 {
+  font-family: Cursive;
+  color: black;
+}
+
+li::first-letter {
+  font-size: 1.5em;
+}
+
+li {
+  text-align: center;
+}
+
+footer {
+  font-size: 120%;
+  font-family: fantasy;
+  text-align: center;
+}
+
+section img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto 
+}
+
+img.resize {
+  padding-bottom: 5%;
+  max-height: 25%;
+  max-width: 25%;
+  transform: rotate(90deg);
+}
+
+
+article img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto 
+}
+img.batmanicon.jpeg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto 
+}
+
+#about-top {
+  text-decoration: none;
+  text-align: center;
+}
