@@ -55,7 +55,6 @@ img.resize {
   transform: rotate(90deg);
 }
 
-
 article img {
   display: block;
   margin-left: auto;
@@ -70,4 +69,8 @@ img.batmanicon.jpeg {
 #about-top {
   text-decoration: none;
   text-align: center;
+}
+
+a:hover {
+  text-decoration: underline;
 }
